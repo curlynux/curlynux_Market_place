@@ -1,1 +1,1 @@
-{"pressets": ["env", {"module": false}]}
+{"pressets": ["env", {"module": true}, {"targets": {"node": "current"}}]}
